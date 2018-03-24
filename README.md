@@ -15,6 +15,7 @@ In this paper, we study the problem of learning image classification models with
 
 ### Food-101N Dataset
 <img src='docs/figs/f101n_example.jpg'><br>
+
 The Food-101N dataset will be made available soon.
 
 ### Code
@@ -33,4 +34,4 @@ The code will be made available soon.
 
 # Acknowledgments
 
-We would like to thank [Xi Chen](https://sites.google.com/site/xichenstephen/), Bosco Chiu, [Yandong Guo](https://www.microsoft.com/en-us/research/people/yag/) and [Po-Sen Huang](https://posenhuang.github.io/) for their thoughtful feedback and discussions. Thanks also to Kelly Huang and Arun Sacheti for helping development of the Food-101N dataset.
+We would like to thank [Xi Chen](https://sites.google.com/site/xichenstephen/), Bosco Chiu, [Yandong Guo](https://www.microsoft.com/en-us/research/people/yag/) and [Po-Sen Huang](https://posenhuang.github.io/) for their thoughtful feedback and discussions. Thanks also to Kelly Huang and [Arun Sacheti](https://www.linkedin.com/in/asacheti/) for helping development of the Food-101N dataset.
