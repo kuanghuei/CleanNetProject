@@ -14,7 +14,7 @@ In this paper, we study the problem of learning image classification models with
 <img src="docs/figs/cleannet.png" alt="CleanNet" width="240">
 
 ### Food-101N Dataset
-<img src='docs/figs/f101n_example.jpg'>
+<img src='docs/figs/f101n_example.jpg'><br>
 The Food-101N dataset will be made available soon.
 
 ### Code
