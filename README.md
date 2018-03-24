@@ -33,4 +33,4 @@ The code will be made available soon.
 
 # Acknowledgments
 
-We would like to thank Xi Chen, Bosco Chiu, Yandong Guo and Po-Sen Huang for their thoughtful feedback and discussions. Thanks also to Kelly Huang and Arun Sacheti for helping development of the Food-101N dataset.
+We would like to thank [Xi Chen](https://sites.google.com/site/xichenstephen/), Bosco Chiu, [Yandong Guo](https://www.microsoft.com/en-us/research/people/yag/) and [Po-Sen Huang](https://posenhuang.github.io/) for their thoughtful feedback and discussions. Thanks also to Kelly Huang and Arun Sacheti for helping development of the Food-101N dataset.
