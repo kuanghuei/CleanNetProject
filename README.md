@@ -1,4 +1,4 @@
-[Kuang-Huei Lee](https://kuanghuei.github.io)<sup>1</sup>, [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ)\*<sup>2</sup>, [Lei Zhang](https://www.microsoft.com/en-us/research/people/leizhang/)<sup>1</sup>, [Linjun Yang](https://scholar.google.com/citations?user=cvgKxDQAAAAJ)\*<sup>3</sup><br>
+[Kuang-Huei Lee](https://kuanghuei.github.io)<sup>1</sup>, [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ)<sup>2</sup>\*, [Lei Zhang](https://www.microsoft.com/en-us/research/people/leizhang/)<sup>1</sup>, [Linjun Yang](https://scholar.google.com/citations?user=cvgKxDQAAAAJ)<sup>3</sup>\*<br>
 <sup>1</sup> Microsoft AI and Research, <sup>2</sup> JD AI Research, <sup>3</sup> Facebook<br>
 (* Work performed while working at Microsoft)
 
