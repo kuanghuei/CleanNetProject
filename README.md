@@ -2,7 +2,7 @@
 <sup>1</sup> Microsoft AI and Research, <sup>2</sup> JD AI Research, <sup>3</sup> Facebook<br>
 (* Work performed while working at Microsoft)
 
-### [[ Paper ]](https://arxiv.org/abs/1711.07131) [ Dataset ] [ Code ]
+### [[ Paper ]](https://arxiv.org/abs/1711.07131) [[ BibTex ]](./docs/bibtex/cleannet.bib) [ Dataset ] [ Code ]
 
 This is the CleanNet project page. CleanNet is a neural achitecture for learning image classification in presence of label noise and label noise detection using minimum human supervision from Microsoft AI & Research. 
 
@@ -23,11 +23,11 @@ The code will be made available soon.
 # Citation
 
 ```
-@article{lee2017cleannet,
+@inproceedings{lee2017cleannet,
   title={CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise},
   author={Lee, Kuang-Huei and He, Xiaodong and Zhang, Lei and Yang, Linjun},
-  journal={arXiv preprint arXiv:1711.07131},
-  year={2017}
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition ({CVPR})},
+  year={2018}
 }
 ```
 
