@@ -15,6 +15,7 @@ In this paper, we study the problem of learning image classification models with
 ### Food-101N Dataset
 <img src='docs/figs/f101n_example.jpg'><br>
 The Food-101N dataset is introduced in this paper, designed for learning to address label noise with minimum human supervision. 
+
 [[ Link to the dataset website ]](https://kuanghuei.github.io/Food-101N)
 
 ### Code
