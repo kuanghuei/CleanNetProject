@@ -2,7 +2,7 @@
 <sup>1</sup> Microsoft AI and Research, <sup>2</sup> JD AI Research, <sup>3</sup> Facebook<br>
 (* Work performed while working at Microsoft)
 
-### [[ Paper ]](https://arxiv.org/abs/1711.07131) [[ BibTex ]](./docs/bibtex/cleannet.bib) [[ Dataset ]](https://kuanghuei.github.io/Food-101N) [ Code ]
+### [[ Paper ]](https://arxiv.org/abs/1711.07131) [[ BibTex ]](./docs/bibtex/cleannet.bib) [[ Dataset ]](https://kuanghuei.github.io/Food-101N) [[ Code ]](https://github.com/kuanghuei/clean-net)
 
 This is the CleanNet project page. CleanNet is a neural achitecture for learning image classification in presence of label noise and label noise detection using minimum human supervision from Microsoft AI & Research. 
 
