@@ -19,7 +19,8 @@ The Food-101N dataset is introduced in this paper, designed for learning to addr
 [[ Link to the dataset website ]](https://kuanghuei.github.io/Food-101N)
 
 ### Code
-The code will be made available soon.
+
+[[ Tensorflow code is available here ]](https://github.com/kuanghuei/clean-net)
 
 # Citation
 
