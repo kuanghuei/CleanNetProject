@@ -8,7 +8,7 @@ This is the CleanNet project page. CleanNet is a neural achitecture for learning
 
 The CleanNet paper will appear in CVPR 2018.
 
-We also wrote an [[article on Microsoft Research Blog]](https://www.microsoft.com/en-us/research/blog/using-transfer-learning-to-address-label-noise-for-large-scale-image-classification/) to introduce this work.
+We also wrote an [article on Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/using-transfer-learning-to-address-label-noise-for-large-scale-image-classification/) to introduce this work.
 
 ### Abstract
 
